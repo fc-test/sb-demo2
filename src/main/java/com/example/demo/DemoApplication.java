@@ -1,4 +1,4 @@
-/* ceci est un comment */
+/* ceci est une commentaire */
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
